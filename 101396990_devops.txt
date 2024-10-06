@@ -1,12 +1,17 @@
-Importance of Learning DevOps in SDLC
 
-Introduction to DevOps and SDLC
-DevOps is a set of practices that integrates software development (Dev) and IT operations (Ops). It aims to shorten the systems development lifecycle (SDLC) and provide continuous delivery with high software quality.
+Here's some content you can add to 101396990_devops.txt about the COMP 3104 DevOps course:
 
-Benefits of DevOps in SDLC
+COMP 3104 - DevOps Course Overview
 
-Improved Collaboration
-DevOps fosters better communication between development and operations teams, which helps reduce delays and misunderstandings during software development and deployment.
+The COMP 3104 DevOps course at George Brown College introduces students to the core principles and practices of DevOps, which include automation, continuous integration, continuous delivery, and collaboration between software development and IT operations.
 
-Automation and Efficiency
-By automating repetitive tasks, DevOps ensures efficient and reliable processes throughout SDLC. Tools like CI/CD automate testing, building, and deployment, speeding up development cycles.
+Course Objectives
+
+Understand the DevOps culture and its importance in modern software development.
+Learn about the tools and technologies used in DevOps, including Git, CI/CD, Docker, and cloud services.
+Gain hands-on experience with version control systems, automation scripts, and deployment pipelines.
+Skills Developed
+
+Implementing CI/CD pipelines to automate build, test, and deployment processes.
+Using version control tools like Git for effective collaboration.
+Configuring infrastructure using automation tools to improve efficiency and reliability.
