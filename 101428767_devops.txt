@@ -1,0 +1,1 @@
+COMP 3104 DevOps course focuses on integrating development and operations to enhance collaboration, streamline workflows, and implement continuous integration and deployment practices.
