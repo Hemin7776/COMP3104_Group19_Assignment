@@ -1,1 +1,2 @@
 Learning DevOps is crucial in the Software Development Life Cycle (SDLC) as it fosters collaboration between development and operations teams, automates processes, and ensures faster and more reliable software releases.
+Automated Testing: Ensures code quality through continuous testing. Continuous Deployment: Enables rapid and reliable software releases.
