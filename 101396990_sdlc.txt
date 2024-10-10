@@ -11,3 +11,8 @@ The Role of Automation in DevOps and SDLC:
 - Automation helps reduce manual errors.
 - Speeds up repetitive tasks such as testing and deployment.
 - Ensures consistency across development and production environments.
+Challenges of Adopting DevOps in SDLC:
+
+- Cultural resistance to change.
+- Initial cost of automation tools.
+- Integration of legacy systems with modern DevOps practices.
