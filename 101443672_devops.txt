@@ -1,0 +1,3 @@
+COMP 3104 DevOps Course Overview
+
+The COMP 3104 DevOps course provides students with a comprehensive introduction to DevOps principles, focusing on the automation of development pipelines and efficient team collaboration. Students learn to implement continuous integration and deployment practices using modern tools.
