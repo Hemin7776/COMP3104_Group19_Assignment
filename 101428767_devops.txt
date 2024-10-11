@@ -1,3 +1,4 @@
 COMP 3104 DevOps course focuses on integrating development and operations to enhance collaboration, streamline workflows, and implement continuous integration and deployment practices.
 Incorporate real-world DevOps practices.
 Key Topics Covered Continuous Integration Continuous Deployment Infrastructure as Monitoring and Logging
+DevOps is a methodology in the software development and IT industry. Used as a set of practices and tools,
