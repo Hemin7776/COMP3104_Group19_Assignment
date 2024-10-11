@@ -2,3 +2,4 @@ COMP 3104 DevOps Course Overview
 
 The COMP 3104 DevOps course provides students with a comprehensive introduction to DevOps principles, focusing on the automation of development pipelines and efficient team collaboration. Students learn to implement continuous integration and deployment practices using modern tools.
 The COMP 3104 DevOps course also emphasizes the use of cloud platforms such as AWS and Azure. Students are introduced to containerization technologies like Docker and orchestration tools such as Kubernetes to manage scalable applications.
+In the COMP 3104 DevOps course, students also explore automation tools such as Jenkins for continuous integration, and Ansible for configuration management, ensuring that infrastructure is consistently and automatically managed.
