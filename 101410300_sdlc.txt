@@ -2,3 +2,4 @@ Learning DevOps is crucial in the SDLC as it bridges the gap between development
 Automation in DevOps reduces manual errors and speeds up testing, making the SDLC more efficient and reliable.
 By integrating DevOps practices, development teams can shorten the SDLC, ensuring faster time-to-market and quicker release cycles.
 DevOps promotes collaboration between development and operations teams, reducing silos and improving communication throughout the SDLC.
+Continuous feedback in DevOps allows teams to quickly identify issues, improving the quality and stability of software throughout the SDLC.
