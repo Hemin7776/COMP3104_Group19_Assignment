@@ -5,4 +5,7 @@ It emphasizes the importance of continuous integration, delivery, and monitoring
 COMP 3104 also covers source control with Git and GitHub, essential for managing code changes.
 Students learn how to implement version control strategies such as branching and merging.
 The course highlights the importance of maintaining a clean and efficient codebase.
+The DevOps course emphasizes the use of automation to eliminate manual intervention in deployments.
+Students are introduced to continuous integration pipelines using GitHub Actions.
+By automating builds and tests, students can catch errors early in the development cycle.
 
