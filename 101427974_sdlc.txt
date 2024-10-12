@@ -2,3 +2,6 @@
 Learning DevOps is essential in today's software development lifecycle (SDLC).
 It helps shorten the development cycle and ensures quicker and more reliable releases.
 DevOps practices foster collaboration between development and IT teams, leading to better software quality.
+DevOps practices integrate continuous feedback loops to ensure that development aligns with business needs.
+In the SDLC, DevOps helps minimize bottlenecks by automating repetitive tasks.
+This leads to faster release cycles and improved customer satisfaction.
