@@ -1,0 +1,18 @@
+COMP 3104 DevOps Course Overview
+
+The COMP 3104 DevOps course at George Brown College introduces students to the core principles of DevOps, including automation, continuous integration, and collaboration between development and IT operations.
+Course Objectives:
+
+- Understand the DevOps culture and its importance in modern software development.
+- Learn about automation tools and processes.
+- Implement continuous integration and delivery pipelines.
+DevOps Tools Covered in the Course:
+
+- Git for version control.
+- Jenkins for continuous integration.
+- Docker for containerization.
+Importance of DevOps in the Software Industry:
+
+- DevOps ensures faster delivery of software updates.
+- Increases collaboration between development and operations teams.
+- Enhances software quality through continuous testing and deployment.
