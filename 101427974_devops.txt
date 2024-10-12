@@ -1,1 +1,5 @@
 "COMP 3104 focuses on DevOps principles, including Continuous Integration and Deployment."
+COMP 3104 focuses on the principles of DevOps and how it bridges development and operations.
+The course covers tools like Jenkins, Docker, and Kubernetes for automating deployment processes.
+It emphasizes the importance of continuous integration, delivery, and monitoring in modern software development.
+
