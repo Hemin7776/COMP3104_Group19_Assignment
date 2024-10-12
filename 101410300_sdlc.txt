@@ -1,0 +1,1 @@
+Learning DevOps is crucial in the SDLC as it bridges the gap between development and operations, enabling faster releases, better collaboration, and more reliable software delivery through automation and continuous feedback.
