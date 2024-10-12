@@ -5,7 +5,7 @@
 - Someet Bhanderi: (GitHub: @someetbhanderi)(https://github.com/someetbhanderi), Student ID: 101443672
 - Prem Patel: (GitHub: @PatelPremAlpeshbhai)(https://github.com/PatelPremAlpeshbhai), Student ID: 101428767
 - Karan Parmar: (GitHub: @karanparmar03)(https://github.com/karanparmar03), Student ID: 101427974
-- Utsav Kalathiya: (GitHub: @Username), Student ID: [StudentID]
+- Utsav Kalathiya: (GitHub: @Utsav8324)(https://github.com/Utsav8324), Student ID: 101413639
 - Sujal Sutariya: (GitHub: @Sujal99999)(https://github.com/Sujal99999), Student ID: 101410300
 
 ## Project Description:
