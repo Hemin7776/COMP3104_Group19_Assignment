@@ -3,3 +3,4 @@ Mastering DevOps is critical in today's fast-paced software industry, enabling t
 The COMP 3104 DevOps course introduces students to essential tools like Git, Jenkins, Docker, and GitHub Actions for automation and continuous integration.
 
 Automation in DevOps reduces human errors and speeds up processes, allowing for faster, more reliable software deployments.
+Continuous integration ensures that code changes are automatically tested and merged, leading to quicker feedback and fewer integration issues.
