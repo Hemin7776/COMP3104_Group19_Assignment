@@ -1,0 +1,18 @@
+Importance of DevOps in SDLC
+
+DevOps integrates development and operations to improve collaboration, automate processes, and ensure high-quality software delivery. Learning DevOps as part of SDLC helps teams achieve faster delivery and better quality control.
+Key Benefits of DevOps in SDLC:
+
+- Faster time to market through automation and continuous delivery.
+- Improved collaboration between development and operations teams.
+- Higher software quality with early defect detection and resolution.
+The Role of Automation in DevOps and SDLC:
+
+- Automation helps reduce manual errors.
+- Speeds up repetitive tasks such as testing and deployment.
+- Ensures consistency across development and production environments.
+Challenges of Adopting DevOps in SDLC:
+
+- Cultural resistance to change.
+- Initial cost of automation tools.
+- Integration of legacy systems with modern DevOps practices.
