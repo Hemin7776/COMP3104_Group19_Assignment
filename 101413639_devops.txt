@@ -1,2 +1,3 @@
 COMP 3104 focuses on teaching DevOps principles, CI/CD, and collaboration using Git.
 The course covers tools such as Git, Jenkins, Docker, and Kubernetes to implement CI/CD pipelines.
+Teamwork and collaboration are emphasized, with students working together on projects and assignments.
