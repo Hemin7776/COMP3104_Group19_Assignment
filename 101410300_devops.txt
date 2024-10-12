@@ -1,3 +1,4 @@
 COMP 3104 DevOps course covers essential DevOps practices including continuous integration, continuous delivery, automation, and collaboration, aimed at improving software development and deployment efficiency.
 Mastering DevOps is critical in today's fast-paced software industry, enabling teams to deliver high-quality software efficiently.
+The COMP 3104 DevOps course introduces students to essential tools like Git, Jenkins, Docker, and GitHub Actions for automation and continuous integration.
 
