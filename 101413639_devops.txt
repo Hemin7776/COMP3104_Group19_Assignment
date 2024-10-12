@@ -1,0 +1,1 @@
+COMP 3104 focuses on teaching DevOps principles, CI/CD, and collaboration using Git.

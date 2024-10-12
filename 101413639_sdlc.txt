@@ -1,0 +1,1 @@
+DevOps is crucial in the SDLC for automating testing, deployment, and ensuring smooth collaboration between teams.
