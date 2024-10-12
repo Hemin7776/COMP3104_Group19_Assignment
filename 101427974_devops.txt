@@ -2,4 +2,7 @@
 COMP 3104 focuses on the principles of DevOps and how it bridges development and operations.
 The course covers tools like Jenkins, Docker, and Kubernetes for automating deployment processes.
 It emphasizes the importance of continuous integration, delivery, and monitoring in modern software development.
+COMP 3104 also covers source control with Git and GitHub, essential for managing code changes.
+Students learn how to implement version control strategies such as branching and merging.
+The course highlights the importance of maintaining a clean and efficient codebase.
 
