@@ -3,10 +3,10 @@
 ## Group Members:
 - Hemin Vavadiya: (GitHub: @Hemin7776)(https://github.com/Hemin7776), Student ID: 101396990
 - Someet Bhanderi: (GitHub: @someetbhanderi)(https://github.com/someetbhanderi), Student ID: 101443672
-- Prem Patel: (GitHub: PatelPremAlpeshbhai)(https://github.com/PatelPremAlpeshbhai), Student ID: 101428767
-- Karan Parmar: (GitHub: @Username), Student ID: [StudentID]
+- Prem Patel: (GitHub: @PatelPremAlpeshbhai)(https://github.com/PatelPremAlpeshbhai), Student ID: 101428767
+- Karan Parmar: (GitHub: @karanparmar03)(https://github.com/karanparmar03), Student ID: 101427974
 - Utsav Kalathiya: (GitHub: @Username), Student ID: [StudentID]
-- Sujal Sutariya: (GitHub: @Username), Student ID: [StudentID]
+- Sujal Sutariya: (GitHub: @Sujal99999)(https://github.com/Sujal99999), Student ID: 101410300
 
 ## Project Description:
 This project is part of the COMP 3104 DevOps course at George Brown College. The goal of the project is to demonstrate DevOps practices, including GitHub workflows, CI/CD pipelines, and version control.
